@@ -1,1 +1,1 @@
-# calculator
+# vezba_tabela
